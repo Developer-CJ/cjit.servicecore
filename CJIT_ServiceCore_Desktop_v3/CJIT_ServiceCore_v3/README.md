@@ -1,32 +1,14 @@
 # CJIT ServiceCore Pro Edition v3
+# VERSION: 3.0
+# BUILD: 3.1.1
+# REQUIREMENTS: Windows 10/11 + .NET SDK 8
 
-CJIT ServiceCore is a Windows desktop front-counter POS and service operations system for computer stores, phone repair shops, and service tech centers.
 
-
-## What v3 fixes
-
-- Rebuilt workflow pages to eliminate overlapping controls.
-- Removed generic/duplicate "Guided" wording.
-- Fixed the DataGridView crash from v2 by removing unsafe column access and adding safe grid binding.
-- Added a Process Center for U-Haul-style step-by-step counter workflows.
-- Added global crash handling that writes crash logs instead of silently dying.
-- Added cleaner responsive layouts with docked panels, table layouts, scroll-safe content, and large touch targets.
+## CJIT ServiceCore is a POS and service operations system for computer stores, phone repair shops, and service tech centers.
 
 ## Run
+ Copy BUILD & RUN code to a new batch file (.bat) then save and then run as administrator.
 
-Double-click:
-
-```bat
-RUN_ME.bat
-```
-
-Or run manually:
-
-```powershell
-dotnet restore
-dotnet build -c Release
-dotnet run -c Release
-```
 
 ## Keyboard shortcuts
 
