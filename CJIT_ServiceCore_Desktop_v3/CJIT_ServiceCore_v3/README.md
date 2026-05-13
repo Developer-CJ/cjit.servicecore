@@ -1,11 +1,7 @@
-# CJIT ServiceCore Desktop Edition v3
+# CJIT ServiceCore Pro Edition v3
 
 CJIT ServiceCore is a Windows desktop front-counter POS and service operations system for computer stores, phone repair shops, and service tech centers.
 
-## Default login
-
-- Username: `chris`
-- Password: `1228`
 
 ## What v3 fixes
 
