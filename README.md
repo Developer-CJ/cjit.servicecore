@@ -1,4 +1,4 @@
-# CJIT ServiceCore Pro v3
-# CJIT Solutions, LLC | Copyright 2026
-# https://cjitsystems.com
+# CJIT Commerce/POS v2
+# CJIT Solutions | Copyright (c) 2026 | ALL RIGHTS RESERVED
+# https://pos.cjitsystems.com
 
